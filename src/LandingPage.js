@@ -27,7 +27,7 @@ const LandingPage = () => {
             <div className="title">
                 {typingText}
             </div>
-            <a href="https://your-contact-link.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTi50WY5KzpOp-ctjQpvt5YnPJFY60I2PTXIJ_cLyM-905ZQ/viewform" target="_blank" rel="noopener noreferrer">
                 <button className="contact-button">Contact Us</button>
             </a>
         </div>
